@@ -1,0 +1,2 @@
+https://openweathermap.org/api/one-call-api
+https://www.meteomatics.com/en/weather-api/?gclid=Cj0KCQjw4PKTBhD8ARIsAHChzRJ42oYpfV0GfIGnB9VglikK_hZg51YhuJLlKprx5sInmi6MY9ITWjsaAro5EALw_wcB
